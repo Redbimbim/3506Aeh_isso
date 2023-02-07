@@ -1,3 +1,6 @@
+ /*
+ fun main() {
+ 
  // println("o printlin serve para exibir textos no console")/
     /*
      *A
@@ -15,3 +18,34 @@
      A
    */
 }
+*/
+//*****************************************************************************************************************************************************************
+/*
+fun main() {
+println("Mano vamos fazer um jogo?")
+println("Vai ser sobre um professor com depressão que trabalha na bms.")
+println("mas qual vai ser a dinamica do jogo?")
+println("vai ser,que quando voce parar de jogar voce vai ver que a sua vida e melhor que a dele.")
+println("Qual sera o nome dele?.")
+println("o nome dele sera Eduardo.")
+println("kkkkk,mano de onde voce tirou essa ideia?.")
+println("Man não sei , mas a minha inspiração foi meu professor do cursso.")
+println("nossa então voce não gosta dele?.")
+println("Não é isso.")
+println("é o que então?.")
+println("Estou fazendo um jogo dele para ele ver que gosta dele e gosto tanto que ele ira esquecer o que eu disse de manhã e me dara uma nota alta.")
+}
+//Variáveis - armazenam valores, dados ,informaçoes
+//val - não mutavel - não podemos alterar seu valor
+//var - mutável - podemos alterara seu valor
+//
+//tipos de variaveis
+//
+//String -
+//Int -
+//Float -
+//double -
+//Long -
+//Boolon -
+*/
+//**********************************************************************************************************************************
