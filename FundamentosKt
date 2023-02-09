@@ -49,3 +49,65 @@ println("Estou fazendo um jogo dele para ele ver que gosta dele e gosto tanto qu
 //Boolon -
 */
 //**********************************************************************************************************************************
+fun main() {
+   //Variáveis - armazenam valores, dados ,informaçoes
+//val - não mutavel - não podemos alterar seu valor
+//var - mutável - podemos alterara seu valor
+//
+//tipos de variaveis
+//
+//String - armazena valores de tipos texto - dento"
+//Int - armazana numeros inteiros --) 7042
+//Float - armazena números reais (no geral) - necessita de um f no valor
+//double - armazena numeros quebrados(de forma arredondadas) --) --)7.15
+//Long - armazena numeros Longos --) 45456456747567545647897.465534657654687
+//Boolon - verdadeiro ou falso --) true,false
+/*
+var cr7= "Cristiano Ronaldo"
+var Chanpions=5
+var altura=1.87
+    
+//Concatenação
+
+println("o nome dele é " + cr7 + ",ele tem " + Chanpions )
+println("titulos de Chanpions League e ele tem altura " + altura + "de altura Siiiiuuuuu")
+
+var Lapulga = "Lionel Messi"
+    var Chanpionss = 5
+    var alturaa = 1.2
+    
+    println("o nome dele é $Lapulga, ee tem $Chanpionss títulos de chanpions, e ele tem apenas $alturaa de Altura")
+    
+    //Licão
+    
+    var Nome = "Gabriel"
+    var Alto = "aproximadamente "   +  1.75
+    var Faz = "curso na bms"
+    var Gosta = "jogar"
+    var Quer = "ir para casa"
+     println(" meu nome é $Nome eu tenho $Alto de altura eu faço $Faz quero muito $Quer e $Gosta")
+     */
+     
+    //Operadores matematica
+    //
+    // + = adiçáo
+    // - = subtraçáo
+    // / = divisáo
+    // * = multiplicação
+    // % = Módulo - o resto de uma divisão
+    // 
+    // println(5 * 5)
+    // 
+    // operadores Relacionados
+    // 
+    // 
+    // == =) igual...
+    // != => diferente de...
+    // > => maior que...
+    // < => menor que...
+    // >= => maior ou igual a...
+    // <= => menor ou igula a...
+    // 
+}
+*/
+//***************************************************************************************************************************
