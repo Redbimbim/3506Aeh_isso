@@ -111,3 +111,77 @@ var Lapulga = "Lionel Messi"
 }
 */
 //***************************************************************************************************************************
+/*
+fun main() { //Operadores matematica
+    //
+    // + = adiçáo
+    // - = subtraçáo
+    // / = divisáo
+    // * = multiplicação
+    // % = Módulo - o resto de uma divisão
+    // 
+    // println(5 * 5)
+    // 
+    // operadores Relacionados
+    // 
+    // 
+    // == =) igual...
+    // != => diferente de...
+    // > => maior que...
+    // < => menor que...
+    // >= => maior ou igual a...
+    // <= => menor ou igula a...
+    
+    var numero1 = 6
+    var numero2 = 5
+    println("**********************************************")
+    println("******Prova da bms valendo um chocolate*******")
+    println("**********************************************")
+    
+    
+    
+println("🙂********************Resultado****************🙂")
+
+    
+    println("---------------------------------------------")
+    
+  
+    println("********************Adição*******************")
+    println("                                            *")
+    println("6+5 =")                                       
+    println( numero1 + numero2 )                           
+    println("                                            *")
+    println("*********************************************")
+    
+    println("---------------------------------------------")
+    
+    println("******************Subtração******************")
+    println("                                            *")
+    println("6-5")
+    println( numero1 - numero2 )
+    println("                                            *")
+    println("*********************************************")
+    
+    println("---------------------------------------------")
+    
+    println("******************Divisão********************")
+    println("                                            *")
+    println("6/5")
+    println( numero1 / numero2 ) 
+    println("                                            *")
+    println("*********************************************")
+    
+    println("----------------------------------------------")
+   
+    println("***************Multiplicação******************")
+    println("                                             *")
+    println("6*5")
+    println( numero1 * numero2 )
+    println("                                             *")
+    println("**********************************************")
+    
+    println("Clique para sai --------------->  🙂SAIR🙂")
+    println("Dica: O professor Eduardo sai as 8:00")
+}
+*/ 
+//****************************************************************************************************************************************
