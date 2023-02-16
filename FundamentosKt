@@ -185,3 +185,69 @@ println("🙂********************Resultado****************🙂")
 }
 */ 
 //****************************************************************************************************************************************
+
+fun main() {
+/*
+    //Condições
+    //
+    //Condições simples
+    //
+    //if --> se...
+    //else --> se não
+    
+    var LembreiDoChocolate = "sim"
+    
+    if(LembreiDoChocolate == "sim"){
+        println("Vou entregar o chocolate para voce")
+    }else{
+        println("chocolate ara todo mundo!!")
+    }
+}
+//se a condição for verdadeiro,  sua ação será executado, senão, outra ação será executada
+//
+//exercí --> Faça uma comparação, usando uma variável e o if..., se essa comparação for verdadeira, um resultado sera 
+//impresso, senão, outro(resultado)será impresso
+//
+
+
+ var MeuProfessorSaiuDabms = "sim"
+    
+    if(MeuProfessorSaiuDabms == "sim"){
+        println("claro ele é legal")
+    }else{
+        println("não sei, mas se acharem ele em uma casa abandonada não fui eu")
+    }
+}
+
+
+var coraçoes = 0
+    
+    if(coraçoes == 5 ){
+        println("Voce está ótimo !! bom pra voce ")
+    }else if(coraçoes == 4){
+        println("ce ta bem")
+    }else if(coraçoes ==3 ){
+        println("ce ta bem pode comer miojo")
+    }else if(coraçoes ==2 ){
+        println("voce não está muito bem!! se cuida!! culpa do miojo!!")
+    }else if(coraçoes == 1 ){
+        println("voce está morrendo, tem direito a uma ligação e um advogado")
+    }else{
+        println("voce está estã morto, agora voce é do Vasco")
+    }
+}*/
+    
+    var idade = 18 
+    println("voce é um neném")
+}else if(idade <= 12){
+    println("vove é muito infantil!!")
+}else if(idade <= 18){
+    println("voce é jovem aproveite a vida")
+}else if(idade <= 60){
+    println("voce é adulto pague as contas")
+}else if(idade > 60){
+    println("o que há velinho?")
+}else{
+    println("voce não existe")*/
+    //***************************************************************************************************************************************************
+        
