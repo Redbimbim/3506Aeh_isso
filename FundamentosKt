@@ -250,4 +250,60 @@ var coraçoes = 0
 }else{
     println("voce não existe")*/
     //***************************************************************************************************************************************************
+    /*
+fun main() {
+    
+    //operadores lógicos
+    //
+    //são usados quando queremos comparar mais de uma coisa na mesma condição
+    //
+    // && --> e (shift + 7)
+    // || --> ou (shift + barra invertida)
+    // tabela verdade(com E e OU)
+    // 
+    // && - a determnada ação só acontecerá se e somente se todas as condiçoes forem verdadeiras
+    // 
+    // VV --> Verdadeiro
+    // VF --> falso
+    // FV --> falso
+    // FF --> falso
+    // 
+    // || - a derteminada ação será executada se pelo menos uma das condições for verdadeira
+    // 
+    // VV --> Verdadeiro
+    // VF --> Verdadeiro
+    // FV --> Verdadeiro
+    // FF --> falso
+    // 
+    /*
+    var idade = 14
+    var acompanhadoDosPais = false
+    
+    if(idade >= 14 && acompanhadoDosPais == true ){
+        println("Pode entra. curte ae")
+    }else{
+        println("a entrada não é permitida para você ")
+        
+   }*/
+    
+    //Exercício - a seleção Brasileira está correndo risco de ser eliminada na fase de grupos da copa, o Brasil,
+    //só pode se classificar se a estonia perder, e se o próprio brasil ganhar.As partidas já passaram quero saer se 
+    //o Brasil se classificou ou não.
+    //
+    //detalhe: use os operadores Lógicos
+    
+    var AlemanhaPerde = true 
+    var BrasilGanhou = true
+    
+    if( AlemanhaPerde >= true || BrasilGanhou == true ){
+        println("isso o Brasil se classificou")
+    }else{
+        println(" nossa o Brasil perdeu ")
+        
+   }
+    
+    
+    
+}*/
+//*************************************************************************************************************************
         
