@@ -414,5 +414,77 @@ println("🙂******************Resultado***************🙂")
     //*******************************************************************************************
 
 
+fun main() {/*
+    
+    // Laços de repetição
+    // 
+    // while - enquanto
+    // for - para
+    // do..while faça.. enquanto
+    // repeat - repita
+    // 
+    
+    //Laço while
+    //enquanto uma determinada condição for verdadeira, outra determinada ação será executada
+    //
+    //estrutura do while
+    //
+    //while(condição){
+    //ação
+    //}
+    //
+    
+    var bubgeeJumping = 1
+    
+    while(bubgeeJumping < 17){
+        println("$bubgeeJumping anos? Cresça, sério")
+        bubgeeJumping ++
+    }
+        println("Divirta-se, se vocé chegou até aqui, vocé merece")
+        
+    
+    //Laço do.. while
+    //
+    //uma determinada ação será executada, enquanto outra determinada condição for verdadaeira
+    //
+    //Estrutura do do..while
+    //
+    //do{
+    //ação
+    //}while(condição)
+    
+    var idade = 1 
+    
+    do{
+        println("$idade anos? cresça sério!")
+        idade++ 
+    }while(idade > 17)
+    
+    //Exercícios -> Não é bissexto, portanto o ano tem 365 dias, precisa ser exibida no console
+    //os números de 1 a 365, usando no ,ínimo uma 
+    
+    
+    var anoInteiro = 1 
+    
+    do{
+        println("Falta $anoInteiro dias para acabar o ano!!")
+        anoInteiro++ 
+    }while(anoInteiro <= 365)}
+   
+   
+    var anoInteiro = 1
+    
+    while(anoInteiro <= 365){
+        println("Falta $anoInteiro dias para acabar o ano!!   ")
+        anoInteiro ++
+    }
+        println("Divirta-se, se vocé chegou até aqui, vocé merece")
+    */
+    
+    
+       //***************************************************************************************************************************************
+    
+    
+
 
         
