@@ -541,3 +541,76 @@ fun main() {
 
 //*************************************************************************************************************************************
         
+
+*/fun main() {
+    
+    //collections - coleções
+    //
+    //<> --> elas servem para especificar o tipo de valor que podem ser utilizados em determinados métodos e operações
+    //
+    //são determinados conjuntos de itens/valores que podem ser modelados e ultilizados em determinados métodos e operações
+    //
+    //list - listas
+    //
+    //listof --> listam itens de tipos variados
+    //
+  /* var genericList = mutableListOf("São Paulo, arroz e pamonha", 25,7f, 23.974, '$', false)
+    println(genericList)*/
+    var specificList = listOf<String>("cruzeiro do Roberto Carlos","callebi","5")
+    println(specificList)
+    
+    //index - uma posição da collection
+    
+    //propriedades - list
+    //
+    // .Lastindex
+    // .size
+    //
+    // .Lastindex
+    // 
+    //println(specificList.first())
+    //println(specificList.Lastindex)
+    //println(specificList.size)
+    //
+    //println(specificList.get(0))
+    //println(specificList[0])
+    //println(specificList.indexOf("cruzeiro do Roberto Carlos"))
+    //
+    
+    
+    //métodos - ListOf
+    /*genericList.add(5, "easy")
+    println(genericList)
+    genericList.remove(23.974)
+     println(genericList)
+     genericList.removeAt(3)
+    println(genericList)
+     genericList.set(0, "tartaruga")
+     println(genericList)
+    genericList.clear()
+    println(genericList)
+    var anotherList = setOf("São Paulo, arroz e pamonha", 25,7f, 23.974, '$', false)
+    println(genericList)*/
+    var anotherList = setOf("Pedro","Diniz","Pelé","Marilla Mendonsa","Diniz")
+    println(anotherList)
+    
+    var animal = mutableMapOf("tartaruga" to 0, "jabuti" to 1 ,"Tucano" to 2,"hiena" to 3,"mamaco" to 4)
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
