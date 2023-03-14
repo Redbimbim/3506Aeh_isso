@@ -599,6 +599,66 @@ fun main() {
     
 }
 
+fun main() {
+    /*
+    var animal = mutableMapOf("tartaruga" to 0, "jabuti" to 1, "Tucano" to 2, "hiena" to 3, "mamaco" to 4)
+    println(animal)
+    
+    animal.put("capivara incrivel", 5)
+    println(animal)
+    animal.put("leopardo", 9)
+    println(animal)
+    animal.replace("tatu", 3)
+    println(animal)*/ 
+    
+    //poo
+    //
+    //programação orientada e objetos
+    //
+    //objeto - estados (características: nome, idade, cpf)
+    //
+    //comportamento - (andar, comer, dormir, conversar, programar)
+    //
+    //classes - modelos que servem para a construção de objetos derivados
+  /* val pessoa1 = pessoa()
+   pessoa1.nome = "keyla"
+    println(pessoa1.nome)
+    pessoa.cpf = "445.177.465.78"
+    println(pessoa.cpf)
+    
+    
+    
+}
+
+
+class pessoa(){
+    //declaração de atributos para a classe pessoa
+    var nome = ""
+    var cpf = ""
+    var idade = 99 
+    var altura = 1.74 */
+    
+    
+    val pessoa1 = pessoa()
+   pessoa1.nome = "Nome = Eduardo"
+    println(pessoa1.nome)
+    pessoa1.Alergias = "Alergia = poeira"
+    println(pessoa1.Alergias )
+    pessoa1.idade = "Idade = 19"
+    
+    
+}
+    
+    class pessoa(){
+    //declaração de atributos para a classe pessoa
+    var nome = ""
+    var Alergias = ""
+    var idade = 19 
+    var altura = 1.74 
+}
+
+    
+    
 
 
 
