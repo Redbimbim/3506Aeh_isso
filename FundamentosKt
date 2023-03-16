@@ -597,7 +597,8 @@ fun main() {
     var animal = mutableMapOf("tartaruga" to 0, "jabuti" to 1 ,"Tucano" to 2,"hiena" to 3,"mamaco" to 4)
     
     
-}
+}*/ 
+//**************************************************************************************************************
 
 fun main() {
     /*
@@ -655,8 +656,52 @@ class pessoa(){
     var Alergias = ""
     var idade = 19 
     var altura = 1.74 
-}
+}*/
 
+//********************************************************************************************************************
+
+    fun main() {
+    
+       val pessoa1 = pessoa()
+    pessoa1.titulo = " Ficha Médica"
+    println(pessoa1.titulo)
+    println("")
+    pessoa1.nome = "Nome = Eduardo"
+    println(pessoa1.nome)
+    pessoa1.Alergias = "Alergia = poeira"
+    println(pessoa1.Alergias )
+    pessoa1.medicamentos = "remédios = Para enchaqueca e enjoo"
+    println(pessoa1.medicamentos)
+    pessoa1.sangue = "tipo sanguineo = o- "
+    println(pessoa1.sangue)
+    pessoa1.idade = 19
+    println("Idade = "+ pessoa1.idade )
+    
+    
+    
+}
+    
+    class pessoa(){
+    //declaração de atributos para a classe pessoa
+    var titulo = ""
+    var nome = ""
+    var medicamentos = ""
+    var Alergias = ""
+    var sangue = ""
+    var idade = 19 
+    var altura = 1.74 
+}
+    
+    
+    
+    //***************************************************************************************************************************************
+    
+    
+    
+    
+    
+    
+    
     
     
 
