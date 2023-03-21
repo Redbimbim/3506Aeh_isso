@@ -696,7 +696,111 @@ class pessoa(){
     
     //***************************************************************************************************************************************
     
+    fun main() {
     
+   /* var jogador1 = jogadorDeFutebol("Neymar", "PG6", 10, "Brasil", "Puma", "Meia-atacante", 222.0)
+    
+    println(jogador1.nome)
+    
+}
+class jogadorDeFutebol(var nome: String,
+                      var time: String,
+                     var numero: Int,
+                      var nacionalidade: String,
+                      var patrocinio: String,
+                      var posição: String,
+                      var preço: Double,){
+    
+}*/
+    var jogador1 = jogadorDeFutebol("Neymar", "Atletico", 1, "Bahia", "Youtube",)
+    println(jogador1.nome)
+    
+    
+        var jogador2 = jogadorDeFutebol("Embap", "Palmeitas", 2, "Nordeste", "Disney",)
+        println(jogador2.nome)
+        println(jogador2.nome)
+        println(jogador2.nome)
+        println(jogador2.nome)
+        println(jogador2.nome)
+        
+        var jogador3 = jogadorDeFutebol("Ronaldo", "Vasco", 3, "Carioca", "Tim",)
+        println(jogador3.nome)
+        println(jogador3.time)
+        println(jogador3.nome)
+        println(jogador3.nome)
+        println(jogador3.nome)
+        
+        var jogador4 = jogadorDeFutebol("Rodrigo", "São Paulo", 4, "Frances", "OI",)
+        println(jogador4.nome)
+        println(jogador4.time)
+        println(jogador4.nome)
+        println(jogador4.nome)
+        println(jogador4.nome)
+        
+        var jogador5 = jogadorDeFutebol("Luidi", "Bota Fogo", 5, "Alemão", "Brasdesco",)
+        println(jogador5.nome)
+        println(jogador5.time)
+        println(jogador5.nome)
+        println(jogador5.nome)
+        println(jogador5.nome)
+        
+        var jogador6 = jogadorDeFutebol("Gregory", "Corithians", 6, "Paulista", "MC Donalds", )
+        println(jogador6.nome)
+        println(jogador6.time)
+        println(jogador6.nome)
+        println(jogador6.nome)
+        println(jogador6.nome)
+        
+        var jogador7 = jogadorDeFutebol("Eduardo", "PG6", 7, "Japones", "Sony",)
+        println(jogador7.nome)
+        println(jogador7.time)
+        println(jogador7.nome)
+        println(jogador7.nome)
+        println(jogador7.nome)
+        
+        var jogador8 = jogadorDeFutebol("Abrão", "Fluminence", 8, "Chines", "Sansung",)
+        println(jogador8.nome)
+        println(jogador11.time)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        
+        var jogador9 = jogadorDeFutebol("Jorge", "Agua Santa", 9, "Africano", "MasterCard", )
+        println(jogador9.nome)
+        println(jogador11.time)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        
+        var jogador10 = jogadorDeFutebol("Cassio", "Barcelona", 10, "Angolano", "Philco",)
+        println(jogador10.nome)
+        println(jogador11.time)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        
+        var jogador11 = jogadorDeFutebol("João", "Dragantini", 11, "Indiano", "Burg King",)
+        println(jogador11.nome)
+        println(jogador11.time)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        println(jogador11.nome)
+        
+       
+        
+    
+}
+class jogadorDeFutebol(var nome: String,
+                      var time: String,
+                     var numero: Int,
+                      var posição: String,
+                      var patrocinio: String,
+                     ){
+    
+    
+}
+
+    //***************************************************************************************************************
     
     
     
