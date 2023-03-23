@@ -808,6 +808,135 @@ class jogadorDeFutebol(var nome: String,
     
     
     
+fun main() {
+
+    
+   /* var jogador1 = jogadorDeFutebol("Neymar", "PG6", 10, "Brasil", "Puma", "Meia-atacante", 222.0)
+    
+    println(jogador1.nome)
+    
+}
+class jogadorDeFutebol(var nome: String,
+                      var time: String,
+                     var numero: Int,
+                      var nacionalidade: String,
+                      var patrocinio: String,
+                      var posição: String,
+                      var preço: Double,){
+    
+}
+    var jogador1 = jogadorDeFutebol("Neymar", "Atletico", 1, "Bahia", "Youtube",)
+    println(jogador1.nome)
+    println(jogador1.time)
+    println(jogador1.numero)
+    println(jogador1.posição)
+    println(jogador1.patrocinio)
+    
+    
+        var jogador2 = jogadorDeFutebol("Embap", "Palmeitas", 2, "Nordeste", "Disney",)
+        println(jogador2.nome)
+        println(jogador2.time)
+        println(jogador2.numero)
+        println(jogador2.posição)
+        println(jogador2.patrocinio)
+        
+        var jogador3 = jogadorDeFutebol("Ronaldo", "Vasco", 3, "Carioca", "Tim",)
+        println(jogador3.nome)
+        println(jogador3.time)
+        println(jogador3.numero)
+        println(jogador3.posição)
+        println(jogador3.patrocinio)
+        
+        var jogador4 = jogadorDeFutebol("Rodrigo", "São Paulo", 4, "Frances", "OI",)
+        println(jogador4.nome)
+        println(jogador4.time)
+        println(jogador4.numero)
+        println(jogador4.posição)
+        println(jogador4.patrocinio)
+        
+        var jogador5 = jogadorDeFutebol("Luidi", "Bota Fogo", 5, "Alemão", "Brasdesco",)
+        println(jogador5.nome)
+        println(jogador5.time)
+        println(jogador5.numero)
+        println(jogador5.posição)
+        println(jogador5.patrocinio)
+        
+        var jogador6 = jogadorDeFutebol("Gregory", "Corithians", 6, "Paulista", "MC Donalds", )
+        println(jogador6.nome)
+        println(jogador6.time)
+        println(jogador6.numero)
+        println(jogador6.posição)
+        println(jogador6.patrocinio)
+        
+        var jogador7 = jogadorDeFutebol("Eduardo", "PG6", 7, "Japones", "Sony",)
+        println(jogador7.nome)
+        println(jogador7.time)
+        println(jogador7.numero)
+        println(jogador7.posição)
+        println(jogador7.patrocinio)
+        
+        var jogador8 = jogadorDeFutebol("Abrão", "Fluminence", 8, "Chines", "Sansung",)
+        println(jogador8.nome)
+        println(jogador8.time)
+        println(jogador8.numero)
+        println(jogador8.posição)
+        println(jogador8.patrocinio)
+        
+        var jogador9 = jogadorDeFutebol("Jorge", "Agua Santa", 9, "Africano", "MasterCard", )
+        println(jogador9.nome)
+        println(jogador9.time)
+        println(jogador9.numero)
+        println(jogador9.posição)
+        println(jogador9.patrocinio)
+        
+        var jogador10 = jogadorDeFutebol("Cassio", "Barcelona", 10, "Angolano", "Philco",)
+        println(jogador10.nome)
+        println(jogador10.time)
+        println(jogador10.numero)
+        println(jogador10.posição)
+        println(jogador10.patrocinio)
+        
+        var jogador11 = jogadorDeFutebol("João", "Dragantini", 11, "Indiano", "Burg King",)
+        println(jogador11.nome)
+        println(jogador11.time)
+        println(jogador11.numero)
+        println(jogador11.posição)
+        println(jogador11.patrocinio)
+        
+       
+        
+    
+}*/
+    
+   //Métodos/funções - são um grupo de ações que apresentam uma determinada atividade de um determinado objeto
+   //
+   //
+   //estrutura de um método do kotlin
+   //
+   //fun nomeDela (parametros - se tiver){
+   //ações
+   //}
+   //
+   //
+   //var nomeDoObjeto = ClasseDele()
+   //
+   //nomeDoObjeto.nomeDela(parametros)
+   
+    
+    
+    
+class jogadorDeFutebol(var nome: String,
+                      var time: String,
+                     var numero: Int,
+                      var posição: String,
+                      var patrocinio: String,
+                     ){
+    
+    
+}
+
+*/
+//******************************************************************************************************
 
 
 
