@@ -984,6 +984,81 @@ class contaDeBanco(val num: Long, var saldo: Double,var dono:String){
 
 //************************************************************************************************************
 
+fun main() {/*
+    val contaCorrente = contaDeBanco(548456498789764564, 0.5, "Rogers")
+    contaCorrente.consultarSaldo()
+    
+   
+    contaCorrente.Saque(0.3, 2984)
+    
+    
+    
+    
+    
+}
+
+class contaDeBanco(val num: Long, var saldo: Double,var dono:String){
+    
+   //consultar saldo, saque e deposito
+   //
+   fun consultarSaldo(){
+   println("o saldo da sua conta é R$$saldo")
+   }
+   fun Saque(valor: Double, senha: Int){
+   
+      if(senha == 5486){
+          if(valor >= saldo){
+              saldo -= valor // vai subtrair  valor do saldo
+              println("Saque do R$$valor realizado com sucesso")
+          }else if(valor<= 0){
+               println("Impossivel sacar esse R$$valor")
+          }else{  
+               println("Saldo infuficiente, saque de R$$valor não realizado")
+          }
+      }else{
+          println("Senha incorreta, Tente novamente")
+       
+}
+   }
+   
+}
+}*/
+    val Deposito = Deposito (548456498789764564, 0.5, "Rogers")
+    Deposito.consultarDeposito()
+    
+   
+    //Deposito.Deposito(0.5, 2984)
+    Deposito.Deposito(2000.0,2984)
+    Deposito.consultarDeposito()
+    
+    
+    
+    
+}
+
+class Deposito(val num: Long, var Depo: Double,var dono:String){
+    
+   //consuldeposito
+   //
+   fun consultarDeposito(){
+   println("Seu saldo é R$$Depo")
+   }
+   fun Deposito(Deposi: Double, senha: Int){
+   
+      if(senha == 2984){
+          if(Deposi >= 0){
+              Depo -= Deposi // vai subtrair  valor do saldo
+              println("Seu deposito de R$$Deposi foi um sucesso")
+          }else{  
+               println("saldo de R$$Deposi infuficiente")
+          }
+      }else{
+          println("Senha incorreta, Tente novamente")
+       
+}
+   }
+   
+}
 
 
 
